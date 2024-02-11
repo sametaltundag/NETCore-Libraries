@@ -1,0 +1,14 @@
+D:\NETCore-Libraries\NETCore-Libraries\Solid.App\obj\Debug\net7.0\Solid.App.GeneratedMSBuildEditorConfig.editorconfig
+D:\NETCore-Libraries\NETCore-Libraries\Solid.App\obj\Debug\net7.0\Solid.App.AssemblyInfoInputs.cache
+D:\NETCore-Libraries\NETCore-Libraries\Solid.App\obj\Debug\net7.0\Solid.App.AssemblyInfo.cs
+D:\NETCore-Libraries\NETCore-Libraries\Solid.App\obj\Debug\net7.0\Solid.App.csproj.CoreCompileInputs.cache
+D:\NETCore-Libraries\NETCore-Libraries\Solid.App\bin\Debug\net7.0\Solid.App.exe
+D:\NETCore-Libraries\NETCore-Libraries\Solid.App\bin\Debug\net7.0\Solid.App.deps.json
+D:\NETCore-Libraries\NETCore-Libraries\Solid.App\bin\Debug\net7.0\Solid.App.runtimeconfig.json
+D:\NETCore-Libraries\NETCore-Libraries\Solid.App\bin\Debug\net7.0\Solid.App.dll
+D:\NETCore-Libraries\NETCore-Libraries\Solid.App\bin\Debug\net7.0\Solid.App.pdb
+D:\NETCore-Libraries\NETCore-Libraries\Solid.App\obj\Debug\net7.0\Solid.App.dll
+D:\NETCore-Libraries\NETCore-Libraries\Solid.App\obj\Debug\net7.0\refint\Solid.App.dll
+D:\NETCore-Libraries\NETCore-Libraries\Solid.App\obj\Debug\net7.0\Solid.App.pdb
+D:\NETCore-Libraries\NETCore-Libraries\Solid.App\obj\Debug\net7.0\Solid.App.genruntimeconfig.cache
+D:\NETCore-Libraries\NETCore-Libraries\Solid.App\obj\Debug\net7.0\ref\Solid.App.dll
