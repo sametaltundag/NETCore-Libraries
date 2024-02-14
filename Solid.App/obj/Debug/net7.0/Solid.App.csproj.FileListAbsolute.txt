@@ -12,3 +12,4 @@ D:\NETCore-Libraries\NETCore-Libraries\Solid.App\obj\Debug\net7.0\refint\Solid.A
 D:\NETCore-Libraries\NETCore-Libraries\Solid.App\obj\Debug\net7.0\Solid.App.pdb
 D:\NETCore-Libraries\NETCore-Libraries\Solid.App\obj\Debug\net7.0\Solid.App.genruntimeconfig.cache
 D:\NETCore-Libraries\NETCore-Libraries\Solid.App\obj\Debug\net7.0\ref\Solid.App.dll
+D:\NETCore-Libraries\NETCore-Libraries\Solid.App\obj\Debug\net7.0\Solid.App.sourcelink.json
