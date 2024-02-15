@@ -2,7 +2,9 @@
 //using Solid.App.OCPGood;
 //using Solid.App.OCPGood2;
 //using Solid.App.LSPBad;
-using Solid.App.LSPGood;
+//using Solid.App.DIPGoodAndBad;
+//using Solid.App.LSPGood;
+using Solid.App.DIPGoodAndBad;
 
 /*
  * 
@@ -46,7 +48,7 @@ phone = new Nokia3310();
 phone.Call();
 phone.TakePhoto();
 
-*/
+
 
 BasePhone phone = new IPhone();
 
@@ -55,3 +57,7 @@ phone.Call();
 
 phone = new Nokia3310();
 phone.Call();
+*/
+
+var ProductService = new ProductService(new ProductRepositoryFromSqlServer());
+ProductService.GetAll().ForEach(x => Console.WriteLine(x));
